@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kamar Rumah Berdoa</title>
+
+  <style>
+    /* Gaya untuk tombol */
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #40cbff; /* Warna latar hijau */
+      color: white; /* Warna teks putih */
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    /* Gaya hover untuk tombol */
+    button:hover {
+      background-color: #0003ff; /* Warna latar hijau saat dihover */
+    }
+  </style>
+</head>
+<body>
+
+  <label for="colorPicker">Pilih warna latar belakang:</label>
+  <input type="color" id="colorPicker" name="colorPicker">
+
+  <h1><strong>Kamar Rumah Berdoa</strong></h1>
+
+  <p id="additionalContent1" style="display: none;">Hai! saya adalah author halaman ini sekaligus orang dibalik segala produk <b>Kamar Rumah Berdoa</b>. Saya tinggal di provinsi Kalimantan Timur, Indonesia</p>
+  <button onclick="showAdditionalContent(1)">Perkenalan</button>
+
+  <p id="additionalContent2" style="display: none;">akan kuceritakan nanti</p>
+  <button id="button2" style="display: none;" onclick="showAdditionalContent(2)">Sejarah</button>
+
+  <script>
+    const colorPicker = document.getElementById('colorPicker');
+    const button2 = document.getElementById('button2');
+
+    colorPicker.addEventListener('input', function() {
+      // Ambil nilai warna dari pemilih warna
+      const selectedColor = colorPicker.value;
+
+      // Atur warna latar belakang halaman sesuai dengan warna yang dipilih
+      document.body.style.backgroundColor = selectedColor;
+    });
+
+    function showAdditionalContent(contentNumber) {
+      // Ambil elemen dengan ID yang sesuai dengan nomor konten
+      const additionalContent = document.getElementById('additionalContent' + contentNumber);
+
+      // Tampilkan elemen dengan mengubah properti display menjadi "block"
+      additionalContent.style.display = 'block';
+
+      // Jika tombol pertama diklik, munculkan tombol kedua
+      if (contentNumber === 1) {
+        button2.style.display = 'block';
+      }
+    }
+  </script>
+
+</body>
+</html>
+<!--  -->
