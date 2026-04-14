@@ -1,0 +1,299 @@
+Nomor: 1
+_
+Soal: Untuk menjadi siswa baru kelas 10 di SMA Z, syaratnya adalah berusia maksimal 20 tahun dan memiliki ijazah SMP atau setara. Siswa B adalah lulusan terbaik dari SMP Z. Berdasarkan informasi tersebut, disimpulkan bahwa Siswa B akan menjadi siswa berprestasi di SMA Z. Bagaimana kualitas simpulan tersebut?
+_
+Jawaban: E
+_
+Penjelasan: Informasi tidak cukup untuk memastikan siswa B akan berprestasi di SMA Z.
+_
+Kategori: TPS (Penalaran)
+___________
+Nomor: 2
+_
+Soal: Sebagian besar siswa mengenakan seragam. Semua siswa memakai dasi. Pernyataan di atas mengindikasikan bahwa:
+_
+Jawaban: E
+_
+Penjelasan: Sebagian siswa pasti memakai seragam dan dasi.
+_
+Kategori: TPS (Logika)
+___________
+Nomor: 3
+_
+Soal: Rani selalu bekerja setiap hari, kecuali jika hari libur. Besok adalah hari libur. Pernyataan tersebut menunjukkan bahwa:
+_
+Jawaban: A
+_
+Penjelasan: Hari libur berarti Rani tidak bekerja.
+_
+Kategori: TPS (Logika)
+___________
+Nomor: 4
+_
+Soal: Hanya anak-anak yang mengunjungi kebun binatang. Tono mengunjungi kebun binatang. Pernyataan di atas menunjukkan bahwa:
+_
+Jawaban: B
+_
+Penjelasan: Jika hanya anak-anak yang boleh, maka Tono adalah anak.
+_
+Kategori: TPS (Logika)
+___________
+Nomor: 5
+_
+Soal: Ada ikan yang memakan biji-bijian. Ada ikan yang tidak memiliki sisik. Semua ikan hidup di air. Kesimpulan yang tepat adalah:
+_
+Jawaban: D
+_
+Penjelasan: Ada kemungkinan ikan yang memakan biji-bijian tidak memiliki sisik.
+_
+Kategori: TPS (Logika)
+___________
+Nomor: 6
+_
+Soal: Jika R selesai setelah P tetapi sebelum Q, dan T setelah N, pernyataan benar adalah:
+_
+Jawaban: A
+_
+Penjelasan: Berdasarkan urutan logika waktu.
+_
+Kategori: TPS
+___________
+Nomor: 7
+_
+Soal: Jika B selesai setelah Q dan R tetapi sebelum N, pernyataan benar adalah:
+_
+Jawaban: B
+_
+Penjelasan: Urutan posisi menunjukkan L sebelum B.
+_
+Kategori: TPS
+___________
+Nomor: 8
+_
+Soal: Siapa anak kedua Pak Rahmat?
+_
+Jawaban: B
+_
+Penjelasan: Berdasarkan urutan posisi keluarga.
+_
+Kategori: TPS
+___________
+Nomor: 9
+_
+Soal: Siapa anak keempat Pak Rahmat?
+_
+Jawaban: A
+_
+Penjelasan: Berdasarkan eliminasi posisi.
+_
+Kategori: TPS
+___________
+Nomor: 10
+_
+Soal: Berapa jumlah adik yang dimiliki Elang?
+_
+Jawaban: E
+_
+Penjelasan: Elang paling tua sehingga punya 4 adik.
+_
+Kategori: TPS
+___________
+Nomor: 11
+_
+Soal: Persegi panjang 6,4 × 10 memiliki luas sama dengan persegi. Tentukan diagonal persegi.
+_
+Jawaban: D
+_
+Penjelasan: Luas 64 → sisi 8 → diagonal 8√2.
+_
+Kategori: Matematika
+___________
+Nomor: 12
+_
+Soal: Jika p > 3 dan q > 4 maka p×q adalah:
+_
+Jawaban: C
+_
+Penjelasan: p×q > 12.
+_
+Kategori: Matematika
+___________
+Nomor: 13
+_
+Soal: Diketahui f(x)=x−8 dan (g∘f)(x)=2x²−7. Nilai g(7)?
+_
+Jawaban: B
+_
+Penjelasan: Substitusi menghasilkan 443.
+_
+Kategori: Matematika Lanjut
+___________
+Nomor: 14
+_
+Soal: Peluang laki-laki diterima 0,6 dan perempuan 0,3. Peluang keduanya ditolak?
+_
+Jawaban: E
+_
+Penjelasan: (0,4 × 0,7) = 0,28.
+_
+Kategori: Matematika (Peluang)
+___________
+Nomor: 15
+_
+Soal: Jika bruto ≤ m dan tara ≤ 2n maka neto adalah:
+_
+Jawaban: A
+_
+Penjelasan: Neto = bruto − tara ≤ m − 2n.
+_
+Kategori: Matematika
+___________
+Nomor: 16
+_
+Soal: Ayah membeli durian dengan bonus, total buah?
+_
+Jawaban: 24
+_
+Penjelasan: 6 karung × 4 = 24.
+_
+Kategori: Matematika
+___________
+Nomor: 17
+_
+Soal: Selisih jumlah siswa laki-laki dan perempuan?
+_
+Jawaban: 2
+_
+Penjelasan: Persamaan menghasilkan selisih 2.
+_
+Kategori: Matematika
+___________
+Nomor: 18
+_
+Soal: Pupuk 15 hari dan obat 20 hari, dalam 6 bulan berapa kali bersamaan?
+_
+Jawaban: 3
+_
+Penjelasan: KPK = 60 hari → 3 kali.
+_
+Kategori: Matematika
+___________
+Nomor: 19
+_
+Soal: Kalimat yang salah penulisan:
+_
+Jawaban: A
+_
+Penjelasan: Tidak sesuai kaidah bahasa.
+_
+Kategori: Bahasa Indonesia
+___________
+Nomor: 20
+_
+Soal: Singkatan yang benar:
+_
+Jawaban: D
+_
+Penjelasan: Tbk adalah bentuk baku.
+_
+Kategori: Bahasa Indonesia
+___________
+Nomor: 21
+_
+Soal: Banyak password dari 1 huruf dan 4 angka tanpa pengulangan?
+_
+Jawaban: 7200
+_
+Penjelasan: Permutasi menghasilkan 7200.
+_
+Kategori: Matematika Kombinatorik
+___________
+Nomor: 22
+_
+Soal: Perbandingan siswa laki-laki dan perempuan jika rata-rata 67?
+_
+Jawaban: 3:2
+_
+Penjelasan: Dari persamaan rata-rata.
+_
+Kategori: Matematika
+___________
+Nomor: 23
+_
+Soal: Operasi 12#7 = 16 + (a−b)
+_
+Jawaban: 21
+_
+Penjelasan: 16 + (12−7) = 21.
+_
+Kategori: Matematika
+___________
+Nomor: 24
+_
+Soal: Dari 800 orang, 400 suka membaca dan 620 menulis. Nilai x+y?
+_
+Jawaban: 620
+_
+Penjelasan: Gunakan konsep himpunan.
+_
+Kategori: Matematika
+___________
+Nomor: 25
+_
+Soal: Luas kertas untuk 50 topi kerucut?
+_
+Jawaban: 22000
+_
+Penjelasan: 50 × 440 = 22000.
+_
+Kategori: Matematika
+___________
+Nomor: 26
+_
+Soal: Kursi tengah dari barisan?
+_
+Jawaban: 264
+_
+Penjelasan: Menggunakan rumus barisan aritmetika.
+_
+Kategori: Matematika
+___________
+Nomor: 27
+_
+Soal: Tabungan dengan bunga 6% per tahun selama n bulan:
+_
+Jawaban: (1 + 0,005n)a
+_
+Penjelasan: Bunga per bulan 0,5%.
+_
+Kategori: Matematika
+___________
+Nomor: 28
+_
+Soal: Barisan -15, -11, -7,... jumlah pernyataan benar?
+_
+Jawaban: C
+_
+Penjelasan: Analisis sifat barisan.
+_
+Kategori: Matematika
+___________
+Nomor: 29
+_
+Soal: Barisan geometri hubungan suku:
+_
+Jawaban: D
+_
+Penjelasan: Berdasarkan rumus geometri.
+_
+Kategori: Matematika
+___________
+Nomor: 30
+_
+Soal: Nilai n dari rata-rata barisan:
+_
+Jawaban: B
+_
+Penjelasan: Substitusi rumus rata-rata.
+_
+Kategori: Matematika
