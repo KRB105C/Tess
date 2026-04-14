@@ -2,105 +2,97 @@ Nomor: 1
 _
 Soal: Untuk menjadi siswa baru kelas 10 di SMA Z, syaratnya adalah berusia maksimal 20 tahun dan memiliki ijazah SMP atau setara. Siswa B adalah lulusan terbaik dari SMP Z. Berdasarkan informasi tersebut, disimpulkan bahwa Siswa B akan menjadi siswa berprestasi di SMA Z. Bagaimana kualitas simpulan tersebut?
 _
+Pilihan:
+A. Simpulan tersebut pasti benar
+B. Simpulan tersebut mungkin benar
+C. Simpulan tersebut pasti salah
+D. Simpulan tidak relevan
+E. Simpulan tidak dapat dinilai
+_
 Jawaban: E
 _
-Penjelasan: Informasi tidak cukup untuk memastikan siswa B akan berprestasi di SMA Z.
+Penjelasan: Informasi tidak cukup untuk memastikan kesimpulan.
 _
-Kategori: TPS (Penalaran)
+Kategori: TPS
 ___________
 Nomor: 2
 _
 Soal: Sebagian besar siswa mengenakan seragam. Semua siswa memakai dasi. Pernyataan di atas mengindikasikan bahwa:
 _
+Pilihan:
+A. Semua siswa memakai seragam dan dasi
+B. Semua siswa memakai seragam
+C. Ada siswa pakai seragam tapi tidak berdasi
+D. Semua yang pakai seragam pasti berdasi
+E. Sebagian siswa memakai seragam dan dasi
+_
 Jawaban: E
 _
-Penjelasan: Sebagian siswa pasti memakai seragam dan dasi.
+Penjelasan: Ada sebagian yang memenuhi kedua kondisi.
 _
-Kategori: TPS (Logika)
+Kategori: TPS
 ___________
 Nomor: 3
 _
-Soal: Rani selalu bekerja setiap hari, kecuali jika hari libur. Besok adalah hari libur. Pernyataan tersebut menunjukkan bahwa:
+Soal: Rani selalu bekerja kecuali hari libur. Besok hari libur.
+_
+Pilihan:
+A. Besok Rani tidak bekerja
+B. Rani tetap bekerja
+C. Ke rumah sakit
+D. Di rumah saja
+E. Tetap bekerja
 _
 Jawaban: A
 _
-Penjelasan: Hari libur berarti Rani tidak bekerja.
+Penjelasan: Hari libur → tidak bekerja.
 _
-Kategori: TPS (Logika)
+Kategori: TPS
 ___________
 Nomor: 4
 _
-Soal: Hanya anak-anak yang mengunjungi kebun binatang. Tono mengunjungi kebun binatang. Pernyataan di atas menunjukkan bahwa:
+Soal: Hanya anak-anak yang ke kebun binatang. Tono ke sana.
+_
+Pilihan:
+A. Tidak hanya anak-anak
+B. Tono anak
+C. Tono dewasa
+D. Sifat anak
+E. Salah semua
 _
 Jawaban: B
 _
-Penjelasan: Jika hanya anak-anak yang boleh, maka Tono adalah anak.
+Penjelasan: Jika hanya anak-anak → Tono pasti anak.
 _
-Kategori: TPS (Logika)
+Kategori: TPS
 ___________
 Nomor: 5
 _
-Soal: Ada ikan yang memakan biji-bijian. Ada ikan yang tidak memiliki sisik. Semua ikan hidup di air. Kesimpulan yang tepat adalah:
+Soal: Ada ikan makan biji, ada ikan tidak bersisik, semua hidup di air.
+_
+Pilihan:
+A. Semua makan biji & bersisik
+B. Semua makan biji & bersisik
+C. Sebagian makan biji & bersisik
+D. Ada makan biji tapi tidak bersisik
+E. Semua makan biji
 _
 Jawaban: D
 _
-Penjelasan: Ada kemungkinan ikan yang memakan biji-bijian tidak memiliki sisik.
-_
-Kategori: TPS (Logika)
-___________
-Nomor: 6
-_
-Soal: Jika R selesai setelah P tetapi sebelum Q, dan T setelah N, pernyataan benar adalah:
-_
-Jawaban: A
-_
-Penjelasan: Berdasarkan urutan logika waktu.
-_
-Kategori: TPS
-___________
-Nomor: 7
-_
-Soal: Jika B selesai setelah Q dan R tetapi sebelum N, pernyataan benar adalah:
-_
-Jawaban: B
-_
-Penjelasan: Urutan posisi menunjukkan L sebelum B.
-_
-Kategori: TPS
-___________
-Nomor: 8
-_
-Soal: Siapa anak kedua Pak Rahmat?
-_
-Jawaban: B
-_
-Penjelasan: Berdasarkan urutan posisi keluarga.
-_
-Kategori: TPS
-___________
-Nomor: 9
-_
-Soal: Siapa anak keempat Pak Rahmat?
-_
-Jawaban: A
-_
-Penjelasan: Berdasarkan eliminasi posisi.
-_
-Kategori: TPS
-___________
-Nomor: 10
-_
-Soal: Berapa jumlah adik yang dimiliki Elang?
-_
-Jawaban: E
-_
-Penjelasan: Elang paling tua sehingga punya 4 adik.
+Penjelasan: Bisa ada ikan dengan dua sifat itu.
 _
 Kategori: TPS
 ___________
 Nomor: 11
 _
-Soal: Persegi panjang 6,4 × 10 memiliki luas sama dengan persegi. Tentukan diagonal persegi.
+Soal: Persegi panjang 6,4 × 10 luas sama dengan persegi. Diagonal?
+_
+Pilihan:
+A. 2
+B. 4
+C. 8
+D. 8√2
+E. 8√3
 _
 Jawaban: D
 _
@@ -110,17 +102,31 @@ Kategori: Matematika
 ___________
 Nomor: 12
 _
-Soal: Jika p > 3 dan q > 4 maka p×q adalah:
+Soal: p > 3 dan q > 4 maka p×q?
+_
+Pilihan:
+A. =10
+B. =12
+C. >12
+D. ≥20
+E. >20
 _
 Jawaban: C
 _
-Penjelasan: p×q > 12.
+Penjelasan: Minimal hasil lebih dari 12.
 _
 Kategori: Matematika
 ___________
 Nomor: 13
 _
-Soal: Diketahui f(x)=x−8 dan (g∘f)(x)=2x²−7. Nilai g(7)?
+Soal: f(x)=x−8 dan (g∘f)(x)=2x²−7. Nilai g(7)?
+_
+Pilihan:
+A. 441
+B. 443
+C. 449
+D. 453
+E. 476
 _
 Jawaban: B
 _
@@ -130,89 +136,111 @@ Kategori: Matematika Lanjut
 ___________
 Nomor: 14
 _
-Soal: Peluang laki-laki diterima 0,6 dan perempuan 0,3. Peluang keduanya ditolak?
+Soal: Peluang laki 0,6 dan perempuan 0,3. Ditolak bersama?
 _
-Jawaban: E
+Pilihan:
+A. 0,7
+B. 0,14
+C. 0,21
+D. 0,28
+E. 0,35
 _
-Penjelasan: (0,4 × 0,7) = 0,28.
+Jawaban: D
 _
-Kategori: Matematika (Peluang)
+Penjelasan: 0,4 × 0,7 = 0,28.
+_
+Kategori: Matematika
 ___________
 Nomor: 15
 _
-Soal: Jika bruto ≤ m dan tara ≤ 2n maka neto adalah:
+Soal: Bruto ≤ m dan tara ≤ 2n. Neto?
+_
+Pilihan:
+A. Neto ≤ m-2n
+B. Neto ≤ m+2n
+C. Neto ≤ m-n
+D. Neto < m-2n
+E. Neto ≥ m-2n
 _
 Jawaban: A
 _
-Penjelasan: Neto = bruto − tara ≤ m − 2n.
+Penjelasan: Neto = bruto − tara.
 _
 Kategori: Matematika
 ___________
 Nomor: 16
 _
-Soal: Ayah membeli durian dengan bonus, total buah?
+Soal: Durian 264.000 per karung, beli 1.320.000 + bonus, isi 4 buah.
 _
 Jawaban: 24
 _
-Penjelasan: 6 karung × 4 = 24.
-_
-Kategori: Matematika
-___________
-Nomor: 17
-_
-Soal: Selisih jumlah siswa laki-laki dan perempuan?
-_
-Jawaban: 2
-_
-Penjelasan: Persamaan menghasilkan selisih 2.
-_
-Kategori: Matematika
-___________
-Nomor: 18
-_
-Soal: Pupuk 15 hari dan obat 20 hari, dalam 6 bulan berapa kali bersamaan?
-_
-Jawaban: 3
-_
-Penjelasan: KPK = 60 hari → 3 kali.
+Penjelasan: 6 karung × 4.
 _
 Kategori: Matematika
 ___________
 Nomor: 19
 _
-Soal: Kalimat yang salah penulisan:
+Soal: Kalimat salah penulisan:
+_
+Pilihan:
+A. Pengindonesiaan...
+B. Bentuk yang disepakati...
+C. Banyak turis...
+D. Surat resmi...
+E. Uji klinis...
 _
 Jawaban: A
 _
-Penjelasan: Tidak sesuai kaidah bahasa.
+Penjelasan: Tidak sesuai kaidah.
 _
 Kategori: Bahasa Indonesia
 ___________
 Nomor: 20
 _
-Soal: Singkatan yang benar:
+Soal: Singkatan benar:
+_
+Pilihan:
+A. s/d
+B. Yth.
+C. u.b.
+D. Tbk.
+E. d/a
 _
 Jawaban: D
 _
-Penjelasan: Tbk adalah bentuk baku.
+Penjelasan: Bentuk baku.
 _
 Kategori: Bahasa Indonesia
 ___________
 Nomor: 21
 _
-Soal: Banyak password dari 1 huruf dan 4 angka tanpa pengulangan?
+Soal: Password 1 huruf + 4 angka tanpa pengulangan:
 _
-Jawaban: 7200
+Pilihan:
+A. 720
+B. 2400
+C. 3600
+D. 7200
+E. 8400
 _
-Penjelasan: Permutasi menghasilkan 7200.
+Jawaban: D
 _
-Kategori: Matematika Kombinatorik
+Penjelasan: Permutasi.
+_
+Kategori: Matematika
 ___________
 Nomor: 22
 _
-Soal: Perbandingan siswa laki-laki dan perempuan jika rata-rata 67?
+Soal: Perbandingan siswa laki dan perempuan:
 _
-Jawaban: 3:2
+Pilihan:
+A. 2:3
+B. 3:2
+C. 4:3
+D. 6:2
+E. 8:3
+_
+Jawaban: B
 _
 Penjelasan: Dari persamaan rata-rata.
 _
@@ -220,80 +248,17 @@ Kategori: Matematika
 ___________
 Nomor: 23
 _
-Soal: Operasi 12#7 = 16 + (a−b)
+Soal: 12#7 = 16 + (a−b)
 _
-Jawaban: 21
+Pilihan:
+A. 17
+B. 18
+C. 19
+D. 20
+E. 21
 _
-Penjelasan: 16 + (12−7) = 21.
+Jawaban: E
 _
-Kategori: Matematika
-___________
-Nomor: 24
-_
-Soal: Dari 800 orang, 400 suka membaca dan 620 menulis. Nilai x+y?
-_
-Jawaban: 620
-_
-Penjelasan: Gunakan konsep himpunan.
-_
-Kategori: Matematika
-___________
-Nomor: 25
-_
-Soal: Luas kertas untuk 50 topi kerucut?
-_
-Jawaban: 22000
-_
-Penjelasan: 50 × 440 = 22000.
-_
-Kategori: Matematika
-___________
-Nomor: 26
-_
-Soal: Kursi tengah dari barisan?
-_
-Jawaban: 264
-_
-Penjelasan: Menggunakan rumus barisan aritmetika.
-_
-Kategori: Matematika
-___________
-Nomor: 27
-_
-Soal: Tabungan dengan bunga 6% per tahun selama n bulan:
-_
-Jawaban: (1 + 0,005n)a
-_
-Penjelasan: Bunga per bulan 0,5%.
-_
-Kategori: Matematika
-___________
-Nomor: 28
-_
-Soal: Barisan -15, -11, -7,... jumlah pernyataan benar?
-_
-Jawaban: C
-_
-Penjelasan: Analisis sifat barisan.
-_
-Kategori: Matematika
-___________
-Nomor: 29
-_
-Soal: Barisan geometri hubungan suku:
-_
-Jawaban: D
-_
-Penjelasan: Berdasarkan rumus geometri.
-_
-Kategori: Matematika
-___________
-Nomor: 30
-_
-Soal: Nilai n dari rata-rata barisan:
-_
-Jawaban: B
-_
-Penjelasan: Substitusi rumus rata-rata.
+Penjelasan: 16 + 5.
 _
 Kategori: Matematika
