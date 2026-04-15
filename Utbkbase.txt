@@ -1,91 +1,91 @@
 Nomor: 1
 _
-Soal: Untuk menjadi siswa baru kelas 10 di SMA Z, syaratnya adalah berusia maksimal 20 tahun dan memiliki ijazah SMP atau setara. Siswa B adalah lulusan terbaik dari SMP Z. Berdasarkan informasi tersebut, disimpulkan bahwa Siswa B akan menjadi siswa berprestasi di SMA Z. Bagaimana kualitas simpulan tersebut?
+Soal: Untuk menjadi siswa baru kelas 10 di SMA Z, syaratnya adalah berusia maksimal 20 tahun dan memiliki ijazah SMP atau setara. Siswa B merupakan lulusan terbaik dari SMP Z. Berdasarkan informasi tersebut, disimpulkan bahwa Siswa B akan menjadi siswa berprestasi di SMA Z. Bagaimana kualitas simpulan tersebut?
 _
 Pilihan:
 A. Simpulan tersebut pasti benar
 B. Simpulan tersebut mungkin benar
 C. Simpulan tersebut pasti salah
-D. Simpulan tidak relevan
-E. Simpulan tidak dapat dinilai
+D. Simpulan tidak relevan dengan informasi
+E. Simpulan tidak dapat dinilai karena informasi tidak cukup
 _
 Jawaban: E
 _
-Penjelasan: Informasi tidak cukup untuk memastikan kesimpulan.
+Penjelasan: Tidak ada informasi yang menjamin siswa B akan berprestasi di SMA Z.
 _
-Kategori: TPS
+Kategori: TPS (Penalaran)
 ___________
 Nomor: 2
 _
-Soal: Sebagian besar siswa mengenakan seragam. Semua siswa memakai dasi. Pernyataan di atas mengindikasikan bahwa:
+Soal: Sebagian besar siswa mengenakan seragam. Semua siswa memakai dasi. Pernyataan tersebut menunjukkan bahwa:
 _
 Pilihan:
 A. Semua siswa memakai seragam dan dasi
 B. Semua siswa memakai seragam
-C. Ada siswa pakai seragam tapi tidak berdasi
-D. Semua yang pakai seragam pasti berdasi
+C. Ada siswa yang memakai seragam tetapi tidak memakai dasi
+D. Semua siswa yang memakai seragam pasti memakai dasi
 E. Sebagian siswa memakai seragam dan dasi
 _
 Jawaban: E
 _
-Penjelasan: Ada sebagian yang memenuhi kedua kondisi.
+Penjelasan: Karena semua siswa memakai dasi dan sebagian memakai seragam, maka ada sebagian yang memakai keduanya.
 _
-Kategori: TPS
+Kategori: TPS (Logika)
 ___________
 Nomor: 3
 _
-Soal: Rani selalu bekerja kecuali hari libur. Besok hari libur.
+Soal: Rani selalu bekerja setiap hari, kecuali jika hari libur. Besok adalah hari libur. Pernyataan tersebut menunjukkan bahwa:
 _
 Pilihan:
 A. Besok Rani tidak bekerja
 B. Rani tetap bekerja
-C. Ke rumah sakit
-D. Di rumah saja
-E. Tetap bekerja
+C. Besok Rani pergi ke rumah sakit
+D. Rani akan berada di rumah saja
+E. Besok Rani tetap bekerja
 _
 Jawaban: A
 _
-Penjelasan: Hari libur → tidak bekerja.
+Penjelasan: Karena hari libur, maka Rani tidak bekerja.
 _
-Kategori: TPS
+Kategori: TPS (Logika)
 ___________
 Nomor: 4
 _
-Soal: Hanya anak-anak yang ke kebun binatang. Tono ke sana.
+Soal: Hanya anak-anak yang mengunjungi kebun binatang. Tono mengunjungi kebun binatang. Pernyataan tersebut menunjukkan bahwa:
 _
 Pilihan:
-A. Tidak hanya anak-anak
-B. Tono anak
-C. Tono dewasa
-D. Sifat anak
-E. Salah semua
+A. Pengunjung kebun binatang tidak hanya anak-anak
+B. Tono adalah seorang anak
+C. Tono adalah seorang dewasa
+D. Tono memiliki sifat seperti anak-anak
+E. Semua jawaban salah
 _
 Jawaban: B
 _
-Penjelasan: Jika hanya anak-anak → Tono pasti anak.
+Penjelasan: Jika hanya anak-anak yang mengunjungi, maka Tono pasti anak.
 _
-Kategori: TPS
+Kategori: TPS (Logika)
 ___________
 Nomor: 5
 _
-Soal: Ada ikan makan biji, ada ikan tidak bersisik, semua hidup di air.
+Soal: Ada ikan yang memakan biji-bijian. Ada ikan yang tidak memiliki sisik. Semua ikan hidup di air. Kesimpulan yang tepat adalah:
 _
 Pilihan:
-A. Semua makan biji & bersisik
-B. Semua makan biji & bersisik
-C. Sebagian makan biji & bersisik
-D. Ada makan biji tapi tidak bersisik
-E. Semua makan biji
+A. Semua ikan memakan biji-bijian dan bersisik
+B. Semua ikan memakan biji-bijian
+C. Sebagian ikan memakan biji-bijian dan bersisik
+D. Ada ikan yang memakan biji-bijian tetapi tidak bersisik
+E. Semua ikan memakan biji-bijian
 _
 Jawaban: D
 _
-Penjelasan: Bisa ada ikan dengan dua sifat itu.
+Penjelasan: Bisa ada ikan yang memiliki dua sifat tersebut sekaligus.
 _
-Kategori: TPS
+Kategori: TPS (Logika)
 ___________
 Nomor: 11
 _
-Soal: Persegi panjang 6,4 × 10 luas sama dengan persegi. Diagonal?
+Soal: Sebuah persegi panjang berukuran 6,4 kaki × 10 kaki memiliki luas yang sama dengan sebuah persegi. Tentukan panjang diagonal persegi tersebut.
 _
 Pilihan:
 A. 2
@@ -96,30 +96,13 @@ E. 8√3
 _
 Jawaban: D
 _
-Penjelasan: Luas 64 → sisi 8 → diagonal 8√2.
-_
-Kategori: Matematika
-___________
-Nomor: 12
-_
-Soal: p > 3 dan q > 4 maka p×q?
-_
-Pilihan:
-A. =10
-B. =12
-C. >12
-D. ≥20
-E. >20
-_
-Jawaban: C
-_
-Penjelasan: Minimal hasil lebih dari 12.
+Penjelasan: Luas = 64 → sisi persegi = 8 → diagonal = 8√2.
 _
 Kategori: Matematika
 ___________
 Nomor: 13
 _
-Soal: f(x)=x−8 dan (g∘f)(x)=2x²−7. Nilai g(7)?
+Soal: Diketahui f(x) = x − 8 dan (g ∘ f)(x) = 2x² − 7. Tentukan nilai g(7).
 _
 Pilihan:
 A. 441
@@ -130,13 +113,13 @@ E. 476
 _
 Jawaban: B
 _
-Penjelasan: Substitusi menghasilkan 443.
+Penjelasan: Substitusi menghasilkan g(7) = 443.
 _
 Kategori: Matematika Lanjut
 ___________
 Nomor: 14
 _
-Soal: Peluang laki 0,6 dan perempuan 0,3. Ditolak bersama?
+Soal: Peluang seorang laki-laki diterima adalah 0,6 dan perempuan 0,3. Peluang keduanya tidak diterima adalah:
 _
 Pilihan:
 A. 0,7
@@ -147,118 +130,23 @@ E. 0,35
 _
 Jawaban: D
 _
-Penjelasan: 0,4 × 0,7 = 0,28.
+Penjelasan: (1−0,6)(1−0,3) = 0,4 × 0,7 = 0,28.
 _
-Kategori: Matematika
-___________
-Nomor: 15
-_
-Soal: Bruto ≤ m dan tara ≤ 2n. Neto?
-_
-Pilihan:
-A. Neto ≤ m-2n
-B. Neto ≤ m+2n
-C. Neto ≤ m-n
-D. Neto < m-2n
-E. Neto ≥ m-2n
-_
-Jawaban: A
-_
-Penjelasan: Neto = bruto − tara.
-_
-Kategori: Matematika
-___________
-Nomor: 16
-_
-Soal: Durian 264.000 per karung, beli 1.320.000 + bonus, isi 4 buah.
-_
-Jawaban: 24
-_
-Penjelasan: 6 karung × 4.
-_
-Kategori: Matematika
+Kategori: Matematika (Peluang)
 ___________
 Nomor: 19
 _
-Soal: Kalimat salah penulisan:
+Soal: Pilihlah kalimat yang penulisannya tidak tepat:
 _
 Pilihan:
-A. Pengindonesiaan...
-B. Bentuk yang disepakati...
-C. Banyak turis...
-D. Surat resmi...
-E. Uji klinis...
+A. Pengindonesiaan kata-kata asing bertujuan memperkaya bahasa Indonesia
+B. Bentuk yang telah disepakati lebih baik daripada bentuk yang diusulkan
+C. Saat ini banyak turis mancanegara berkunjung ke Lombok
+D. Dalam menulis surat resmi harus menggunakan kosakata baku
+E. Setelah uji klinis, obat tersebut direkomendasikan oleh tim
 _
 Jawaban: A
 _
-Penjelasan: Tidak sesuai kaidah.
+Penjelasan: Penulisan tidak sesuai kaidah yang benar.
 _
 Kategori: Bahasa Indonesia
-___________
-Nomor: 20
-_
-Soal: Singkatan benar:
-_
-Pilihan:
-A. s/d
-B. Yth.
-C. u.b.
-D. Tbk.
-E. d/a
-_
-Jawaban: D
-_
-Penjelasan: Bentuk baku.
-_
-Kategori: Bahasa Indonesia
-___________
-Nomor: 21
-_
-Soal: Password 1 huruf + 4 angka tanpa pengulangan:
-_
-Pilihan:
-A. 720
-B. 2400
-C. 3600
-D. 7200
-E. 8400
-_
-Jawaban: D
-_
-Penjelasan: Permutasi.
-_
-Kategori: Matematika
-___________
-Nomor: 22
-_
-Soal: Perbandingan siswa laki dan perempuan:
-_
-Pilihan:
-A. 2:3
-B. 3:2
-C. 4:3
-D. 6:2
-E. 8:3
-_
-Jawaban: B
-_
-Penjelasan: Dari persamaan rata-rata.
-_
-Kategori: Matematika
-___________
-Nomor: 23
-_
-Soal: 12#7 = 16 + (a−b)
-_
-Pilihan:
-A. 17
-B. 18
-C. 19
-D. 20
-E. 21
-_
-Jawaban: E
-_
-Penjelasan: 16 + 5.
-_
-Kategori: Matematika
