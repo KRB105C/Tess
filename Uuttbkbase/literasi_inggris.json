@@ -1,0 +1,49 @@
+[
+  {
+    "literasi": "Text 1
+Rock weathering is a process of weakening and breaking down of rocks and minerals. Both non-living element, such as variations in temperature, flora and fauna, acids, salts, and liquid or solid water, can cause this. Rocks on the Earth's surface tend to weather faster than those underground. Weathering is one of the processes that lead to soil production.
+Different types of weathering affect rocks. These consist of chemical weathering, biological weathering, and physical or mechanical weathering. The process of physical or mechanical weathering essentially fragments rocks. Freezing and thawing water is one way that physical deterioration occurs. Water may easily pass through any pores or fissures in rocks while it is liquid. This water will expand inside those rocks if it freezes.
+A weathering process known as honeycomb weathering can be triggered by salt. By capillary action, groundwater pours into rock pores and finally evaporates. This produces crystals of salt, which raise the pressure within rocks. The rocks will eventually break. This may leave behind honeycomb-like salt crystal pits. In dry areas, salt crystallization weathering is frequently observed.
+Extremes in temperature can also have an impact on how rocks weather. Thermal stress is one term for one kind of physical weathering process. This is a typical feature of desert regions, where overnight lows can be relatively chilly and midday highs can be extremely hot. Over time, rocks that experience frequent extreme temperature swings will eventually fracture and flake, this process known as exfoliation.
+
+Text 2
+The deterioration and corrosion of rocks, metals, and man-made materials is known as weathering. Chemical and physical weathering are the two primary categories. Acid rain is one instance of chemical weathering for rocks. Scientists believe that rock weathering can play an important role in preventing global warming by controlling the amount of carbong in the atmosphere. The elements contained in volcanic rocks react with water or air in the atmosphere and absorb carbon.
+Natural rock weathering process can take millions of years, makin it too slow to counteract global warming. However, rock weathering accelerates when the rock is crushed into a fine dust. It distributed throughout croplands worldwide, this "enhanced" rock weathering has the potential to store 215 billion tons of carbon dioxide over the course of the next 75 years, according to previous studies.
+Researchers from University of California apllied crushed rock, both metabasalt and olivine, on 5 acres of a fallowed cornfield in the Sacramento Valley. In comparison to plots without crushed rock, they discovered that during the study, the crushed rock plots stored 0.15 tons of carbon dioxide per hectare. If this amount of carbon was removed across all California cropland, it would be equivalent to taking 350,000 cars off the road every year.
+It appears that many hardworking researchers are now looking for answers to how the process of rock weathering occurs in dry areas. It is known that drylands cover 41% of Earth's total area, and they are growing as a result of climate change. This according to some prominent researchers, makes it even more crucial to look into improved rock weathering in drylands.",
+    "dari_nomor": 26,
+    "sampai_nomor": 27,
+    "soal": [
+      {
+        "nomor": 26,
+        "soal": "An explanation of rock weathering that occurs in dry areas can be found in ...",
+        "pilihan": {
+          "A": "Text 1 Paragraph 1, Text 2 Paragraph 3",
+          "B": "Text 1 Paragraph 1, Text 2 Paragraph 4",
+          "C": "Text 1 Paragraph 3, Text 2 Paragraph 4",
+          "D": "Text 1 Paragraph 4, Text 2 Paragraph 3",
+          "E": "Text 1 Paragraph 4, Text 2 Paragraph 4"
+        },
+        "jawaban": "C",
+        "penjelasan": "Text 1 paragraf 3 membahas honeycomb weathering di area kering, dan Text 2 paragraf 4 membahas penelitian weathering di drylands.",
+        "image": null,
+        "kategori": "Literasi Bahasa Inggris"
+      },
+      {
+        "nomor": 27,
+        "soal": "Based on the information from both texts, which of the following will most likely happen in the future?",
+        "pilihan": {
+          "A": "Crushed volcanic rock containing metabasalt and olivine will be used as fertilizers for cropland in dry areas.",
+          "B": "Global warming will cause the natural process of rock weathering to happen more frequently.",
+          "C": "Acid rain will occur more frequently as a result of rock weathering in dry areas.",
+          "D": "Natural rock weathering process in dry areas will continuously be observed.",
+          "E": "A honeycomb weathering will be used to reduce the global warming."
+        },
+        "jawaban": "A",
+        "penjelasan": "Text 2 menunjukkan penggunaan crushed rock di lahan pertanian untuk menyerap karbon, sehingga kemungkinan besar akan diterapkan lebih luas di masa depan.",
+        "image": null,
+        "kategori": "Literasi Bahasa Inggris"
+      }
+    ]
+  }
+]
