@@ -18,6 +18,326 @@
         "penjelasan": "Struktur sebab-akibat dan makna tetap paling sesuai pada opsi D.",
         "image": null,
         "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 42,
+        "soal": "Penulisan kata bercetak tebal yang salah terdapat pada kalimat nomor…",
+        "pilihan": {
+          "A": "Kalimat (1)",
+          "B": "Kalimat (2)",
+          "C": "Kalimat (3)",
+          "D": "Kalimat (4)",
+          "E": "Kalimat (5)"
+        },
+        "jawaban": "C",
+        "penjelasan": "Kata 'computer' tidak sesuai EYD, seharusnya 'komputer'.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 43,
+        "soal": "Kata hubung yang paling tepat untuk melengkapi kalimat (2) adalah ...",
+        "pilihan": {
+          "A": "padahal",
+          "B": "akan tetapi",
+          "C": "namun",
+          "D": "sebaliknya",
+          "E": "bahkan"
+        },
+        "jawaban": "E",
+        "penjelasan": "Kata 'bahkan' menambah penekanan pada pernyataan berikutnya.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 44,
+        "soal": "Tentukan kalimat mana yang merupakan perbaikan yang paling tepat dari kalimat (1).",
+        "pilihan": {
+          "A": "Pakar media sosial menyebutkan kita sedang berada di era revolusi keempat.",
+          "B": "Pakar media sosial menyebutkan bahwa kita sedang berada di era revolusi keempat.",
+          "C": "Pakar media sosial menyebutkan kalau kita sedang berada di era revolusi keempat.",
+          "D": "Menurut pakar media sosial menyebutkan bahwa kita sedang berada di era revolusi keempat.",
+          "E": "Menurut pakar media sosial menyebutkan, kita sedang berada di era revolusi keempat."
+        },
+        "jawaban": "B",
+        "penjelasan": "Penggunaan 'bahwa' membuat kalimat lebih baku dan efektif.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      }
+    ]
+  },
+  {
+    "literasi": "Susunlah lima kalimat berikut ini menjadi paragraf yang logis dan koheren.\n1. Produk tersebut dikenal dengan nama ELSA AI untuk memungkinkan pengguna mempraktikkan percakapan di dunia nyata.\n2. ELSA Speak, salah satu aplikasi bahasa Inggris terkemuka yang memanfaatkan teknologi AI baru saja meluncurkan fitur AI generasi terbaru.\n3. Dalam era digital, pemanfaatan potensi kecerdasan buatan (AI) semakin popular di dunia pendidikan.\n4. Hal ini dianggap sebagai langkah lebih lanjut dalam revolusi pembelajaran bahasa Inggris.\n5. Perusahaan mengembangkan teknologi ini selama bertahun-tahun.",
+    "dari_nomor": 45,
+    "sampai_nomor": 45,
+    "soal": [
+      {
+        "nomor": 45,
+        "soal": "Susunlah lima kalimat berikut ini menjadi paragraf yang logis dan koheren.",
+        "pilihan": {
+          "A": "3, 2, 1, 4, 5",
+          "B": "3, 2, 1, 5, 4",
+          "C": "3, 2, 4, 5, 1",
+          "D": "3, 1, 4, 5, 2",
+          "E": "3, 1, 2, 5, 4"
+        },
+        "jawaban": "B",
+        "penjelasan": "Urutan logis: umum → contoh → penjelasan → proses → penutup.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      }
+    ]
+  },
+  {
+    "literasi": "1Antisipasi dampak perubahan iklim terhadap kondisi kesehatan masyarakat dapat dilakukan dengan meningkatkan kemampuan unit pelayanan kesehatan yang lebih dekat dengan tempat tinggal masyarakat, misalnya posyandu dan puskesmas. 2Menurut WHO, perubahan iklim akan menyebabkan sekitar 250.000 kematian per tahun dari kasus malnutrisi, malaria, dan diare. 3WHO juga mengungkapkan bahwa perubahan iklim secara tidak langsung dapat memengaruhi perubahan kondisi sosial dan ekonomi masyarakat. 4Apabila tidak segera dilakukan mitigasi, [...] ini dapat memperburuk kesehatan mental mereka. 5Besarnya dampak pengaruh iklim terhadap kesehatan masyarakat harus menjadi perhatian serius para pemangku kebijakan di negeri ini. 6Kesiapan sarana dan prasarana kesehatan dalam upaya memperkuat deteksi dini kesehatan dasar masyarakat harus menjadi prioritas. 7Hal ini harus dilakukan secara konsisten. 8Termasuk di dalamnya kesiapan tenaga kesehatan dan peralatan deteksi dini yang memadai di satuan layanan kesehatan terkecil, seperti puskesmas.",
+    "dari_nomor": 46,
+    "sampai_nomor": 50,
+    "soal": [
+      {
+        "nomor": 46,
+        "soal": "Berdasarkan teks yang diberikan, judul mana yang paling tepat untuk merangkum isi keseluruhan teks?",
+        "pilihan": {
+          "A": "Dampak Perubahan Iklim Terhadap Kondisi Kesehatan Masyarakat",
+          "B": "Mitigasi Perubahan Iklim melalui Fasilitas Kesehatan Masyarakat",
+          "C": "Sarana dan Prasarana Kesehatan untuk Mitigasi Perubahan Iklim",
+          "D": "Peningkatan Peran Kesehatan dalam Mitigasi Perubahan Iklim",
+          "E": "Ancaman Kesehatan Akibat Perubahan Iklim dan Mitigasinya"
+        },
+        "jawaban": "E",
+        "penjelasan": "Mencakup dampak dan solusi mitigasi secara lengkap.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 47,
+        "soal": "Pernyataan yang paling tepat untuk melengkapi kalimat (4) adalah ....",
+        "pilihan": {
+          "A": "perlunya perhatian dari pemangku kebijakan",
+          "B": "menurunnya kondisi kesehatan fisik masyarakat",
+          "C": "tingginya angka kematian per tahun",
+          "D": "perubahan drastic kondisi sosial dan ekonomi",
+          "E": "minimnya sarana dan prasarana pendukung"
+        },
+        "jawaban": "D",
+        "penjelasan": "Konteks sebelumnya membahas perubahan sosial-ekonomi.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 48,
+        "soal": "Manakah yang paling tepat sebagai kalimat inti dari kalimat (1)?",
+        "pilihan": {
+          "A": "Antisipasi dampak perubahan iklim terhadap kondisi kesehatan dapat dilakukan",
+          "B": "Antisipasi dampak perubahan iklim terhadap kesehatan dapat dilakukan",
+          "C": "Antisipasi dampak perubahan iklim dapat dilakukan",
+          "D": "Antisipasi dampak dapat dilakukan",
+          "E": "Antisipasi masyarakat dapat dilakukan"
+        },
+        "jawaban": "C",
+        "penjelasan": "Kalimat inti adalah bentuk paling ringkas tanpa keterangan tambahan.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 49,
+        "soal": "Kalimat manakah yang paling efektif sebagai hasil penggabungan dari kalimat (6) dan (7)",
+        "pilihan": {
+          "A": "Kesiapan sarana dan prasarana kesehatan dalam upaya memperkuat deteksi dini kesehatan dasar masyarakat yang menjadi prioritas secara konsisten dilakukan.",
+          "B": "Kesiapan sarana dan prasarana kesehatan dalam upaya memperkuat deteksi dini kesehatan dasar masyarakat yang menjadi prioritas harus dilakukan secara konsisten.",
+          "C": "Kesiapan sarana dan prasarana kesehatan dalam upaya memperkuat deteksi dini kesehatan dasar masyarakat harus menjadi prioritas yang konsisten.",
+          "D": "Kesiapan sarana dan prasarana kesehatan dalam upaya memperkuat deteksi dini kesehatan dasar masyarakat harus diprioritaskan dan dilakukan secara konsisten.",
+          "E": "Kesiapan sarana dan prasarana kesehatan dalam upaya memperkuat deteksi dini kesehatan dasar masyarakat harus menjadi prioritas dan konsisten."
+        },
+        "jawaban": "D",
+        "penjelasan": "Struktur paling efektif dan jelas.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 50,
+        "soal": "Kata yang paling tepat menggantikan kata \"satuan\" dalam kalimat (8) adalah ...",
+        "pilihan": {
+          "A": "agen",
+          "B": "unit",
+          "C": "kantor",
+          "D": "bagian",
+          "E": "kelompok"
+        },
+        "jawaban": "B",
+        "penjelasan": "Istilah yang tepat dalam konteks layanan kesehatan adalah 'unit'.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      }
+    ]
+  },
+  {
+    "literasi": "1Pencemaran dan kerusakan lingkungan merupakan ancaman yang menimbulkan kerugian besar, baik dalam skala lokal, nasional, maupun global. 2Kerusakan tersebut terjadi di wilayah darat, laut, udara, dan wilayah antara darat dan laut. 3Kerusakan yang parah terjadi pada hutan mangrove. 4Padahal, dari situs resmi UNESCO melaporkan tentang mangrove yang merupakan ekosistem yang subur di pesisir. 5Ekosistem itu [...] pada kesejahteraan dan pelindungan masyarakat pesisir dari berbagai [...], misalnya gelombang, badai, tsunami, kenaikan air laut, dan erosi garis pantai. 6Kerusakan mangrove yang tidak diatasi, berdampak pada percepatan kenaikan permukaan air laut. 7Cepat atau lambat, luas hutan mangrove di dunia berkurang drastis. 8Jika tidak segera diatasi, diperkirakan hutan mangrove habis pada tahun 2050.",
+    "dari_nomor": 51,
+    "sampai_nomor": 54,
+    "soal": [
+      {
+        "nomor": 51,
+        "soal": "Kata yang paling tepat untuk melengkapi kalimat (5) ....",
+        "pilihan": {
+          "A": "berpengaruh; kejadian",
+          "B": "berefek; akibat",
+          "C": "berimbas; bencana",
+          "D": "berakibat; musibah",
+          "E": "berkontribusi; ancaman"
+        },
+        "jawaban": "E",
+        "penjelasan": "Kata 'berkontribusi' dan 'ancaman' paling tepat dalam konteks perlindungan terhadap berbagai bahaya.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 52,
+        "soal": "Penggunaan tanda koma yang salah terdapat pada kalimat nomor",
+        "pilihan": {
+          "A": "1",
+          "B": "2",
+          "C": "4",
+          "D": "6",
+          "E": "7"
+        },
+        "jawaban": "D",
+        "penjelasan": "Kalimat (6) tidak memerlukan koma sebelum kata 'berdampak'.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 53,
+        "soal": "Kalimat berikut perlu dimasukkan dalam bacaan tersebut\n“Mangrove efektif sebagai penyerap karbon.”\nKalimat tersebut paling tepat ditempatkan setelah kalimat nomor…",
+        "pilihan": {
+          "A": "1",
+          "B": "2",
+          "C": "4",
+          "D": "6",
+          "E": "7"
+        },
+        "jawaban": "C",
+        "penjelasan": "Kalimat tersebut paling relevan setelah penjelasan tentang fungsi mangrove pada kalimat (4).",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 54,
+        "soal": "Manakah yang merupakan kalimat efektif dari kalimat (4)?",
+        "pilihan": {
+          "A": "Padahal, situs resmi UNESCO melaporkan tentang mangrove yang merupakan ekosistem yang subur di pesisir.",
+          "B": "Padahal, dari situs resmi UNESCO melaporkan mangrove yang merupakan ekosistem yang subur di pesisir.",
+          "C": "Padahal, situs resmi UNESCO melaporkan bahwa mangrove merupakan ekosistem yang subur di pesisir.",
+          "D": "Padahal, situs resmi UNESCO melaporkan tentang mangrove merupakan ekosistem yang subur di pesisir.",
+          "E": "Padahal, situs resmi UNESCO melaporkan bahwa mangrove yang merupakan ekosistem yang subur di pesisir."
+        },
+        "jawaban": "C",
+        "penjelasan": "Kalimat efektif menggunakan 'bahwa' dan tanpa kata yang tidak perlu.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      }
+    ]
+  },
+  {
+    "literasi": "1Gili Trawangan terletak di desa Gili Indah, Kecamatan Pemenang, Kabupaten Lombok Utara. 2Trawangan termasuk kawasan strategis provinsi (KSP) bersama dengan Gili Meno dan Gili Air, atau yang sering disebut \"Pesona Gili Tramena\" (Trawangan, Meno, dan Air). 3Gili Trawangan merupakan yang terbesar dari ketiga pulau kecil atau gili yang terletak di sebelah Barat Laut Lombok. 4Dengan panjang 3 km dan lebar 2 km, Gili Trawangan, Provinsi Nusa Tenggara Barat, berpopulasi sekitar 2.089 jiwa dengan rasio laki-laki dan perempuan sebesar 1,08. 5Gili Trawangan dikelola oleh Dinas Pariwisata Lombok.",
+    "dari_nomor": 55,
+    "sampai_nomor": 55,
+    "soal": [
+      {
+        "nomor": 55,
+        "soal": "Penulisan huruf kapital yang salah terdapat pada kalimat nomor ....",
+        "pilihan": {
+          "A": "(1)",
+          "B": "(2)",
+          "C": "(3)",
+          "D": "(4)",
+          "E": "(5)"
+        },
+        "jawaban": "C",
+        "penjelasan": "Penulisan 'Barat Laut' seharusnya tidak kapital karena bukan nama tempat khusus.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      }
+    ]
+  },
+  {
+    "literasi": "1Pendidikan berdasarkan Sisdiknas bertujuan untuk mengembangkan potensi peserta didik agar menjadi manusia yang beriman dan bertakwa kepada Tuhan Yang Maha Esa, berakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri, dan menjadi warga negara yang demokratis serta bertanggung jawab. 2Namun kenyataannya, kondisi sosial dan kultural masyarakat kita akhir-akhir ini memang sangat dikhawatirkan. 3Masyarakat kita menghadapi krisis kronis dan hilangnya perilaku positif termakan zaman diganti perilaku negatif yang cenderung destruktif. 4Untuk itu, pendidikan karakter menjadi semakin mendesak untuk diterapkan dalam lembaga pendidikan kita. 5Sekolah merupakan suatu wadah yang sangat tepat sekali untuk mengembangkan pendidikan karakter bagi anak. 6Belajar akuntansi, misalnya, tidak hanya sekadar terampil dalam berhitung, tetapi juga menumbuhkan karakter rasional, kejujuran, objektif, terbuka, dan tekun lewat pelajaran akuntansi. 7Sehubungan dengan hal tersebut, perlu [...].",
+    "dari_nomor": 56,
+    "sampai_nomor": 60,
+    "soal": [
+      {
+        "nomor": 56,
+        "soal": "Pernyataan yang paling tepat untuk melengkapi kalimat (7) adalah ....",
+        "pilihan": {
+          "A": "disiapkan guru yang andal untuk melaksanakan pendidikan karakter di sekolah",
+          "B": "dikembangkan strategi yang tepat untuk mengintegrasikan pendidikan karakter dalam mata pelajaran",
+          "C": "diciptakan mata pelajaran khusus yang membelajarkan pendidikan karakter di sekolah",
+          "D": "dipersiapkan sarana dan prasarana yang sangat memadai untuk melaksanakan pendidikan karakter",
+          "E": "dipersiapkan manajemen sekolah yang memungkinkan pelaksanaan pendidikan karakter"
+        },
+        "jawaban": "B",
+        "penjelasan": "Kalimat sebelumnya menekankan integrasi pendidikan karakter dalam pelajaran.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 57,
+        "soal": "Kata kejujuran dalam kalimat (6) seharusnya ...",
+        "pilihan": {
+          "A": "dibiarkan saja (sudah benar)",
+          "B": "dihilangkan",
+          "C": "diikuti kata perilaku",
+          "D": "didahului kata sifat",
+          "E": "diganti dengan kata jujur"
+        },
+        "jawaban": "E",
+        "penjelasan": "Konsistensi bentuk kata sifat diperlukan (rasional, jujur, objektif, dst).",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 58,
+        "soal": "Kalimat (2) perlu disempurnakan dengan cara ...",
+        "pilihan": {
+          "A": "mengganti kata kondisi dengan keadaan",
+          "B": "mengganti kata dikhawatirkan dengan mengkhawatirkan",
+          "C": "menghilangkan kata sangat",
+          "D": "menghilangkan kata memang",
+          "E": "menambah kata ekonomi setelah sosial"
+        },
+        "jawaban": "B",
+        "penjelasan": "Subjek aktif membutuhkan kata sifat 'mengkhawatirkan'.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 59,
+        "soal": "Kata yang harus dihilangkan pada kalimat (5) adalah ...",
+        "pilihan": {
+          "A": "merupakan",
+          "B": "suatu",
+          "C": "sekali",
+          "D": "untuk",
+          "E": "bagi"
+        },
+        "jawaban": "C",
+        "penjelasan": "Penggunaan 'sangat tepat sekali' berlebihan (pleonasme).",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
+      },
+      {
+        "nomor": 60,
+        "soal": "Penulisan kata yang salah terdapat pada kalimat nomor ...",
+        "pilihan": {
+          "A": "(1)",
+          "B": "(2)",
+          "C": "(3)",
+          "D": "(4)",
+          "E": "(5)"
+        },
+        "jawaban": "D",
+        "penjelasan": "Penulisan 'antarsiswa' harus disatukan tanpa spasi atau tanda hubung salah.",
+        "image": null,
+        "kategori": "Pemahaman bacaan dan menulis"
       }
     ]
   }
