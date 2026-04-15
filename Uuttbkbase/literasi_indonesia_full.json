@@ -1,1 +1,412 @@
-[YOUR ORIGINAL JSON CONTENT HERE]
+[
+  {
+    "literasi": "Beberapa detik setelah Sunu membuka pintu dengan kunci dari pemilik rumah, terdengar derit engsel yang sudah berkarat. Bau lembap langsung menyeruak keluar. Rumah itu tampak lama tak dihuni. Temboknya kusam, sebagian catnya mengelupas, dan sudut-sudut ruangan dipenuhi debu tebal. Jendela-jendelanya kotor, membuat cahaya matahari yang masuk tampak redup. Lantai yang seharusnya berwarna cerah kini berubah kusam oleh noda dan jejak kaki lama.\n\n\"Ini tempatnya?\" tanya Kinan sambil mengerutkan dahi. Ia melangkah perlahan, matanya menyapu setiap sudut ruangan dengan teliti. Pandangannya berhenti pada dinding yang penuh coretan dan sarang laba-laba.\n\nSunu mengangguk santai. \"Murah. Dan cukup luas untuk kita semua.\"\n\nAku memperhatikan mereka satu per satu. Alex tampak antusias, matanya berbinar melihat kemungkinan-kemungkinan yang bisa dilakukan di ruangan ini. Sementara Gusti hanya tersenyum tipis, seperti biasa, mencoba memahami situasi tanpa banyak bicara.\n\n\"Kita bisa bersihkan ini,\" kata Alex penuh semangat. \"Bayangkan kalau sudah rapi. Kita bisa jadikan tempat diskusi, rapat, atau sekadar nongkrong produktif.\"\n\nKinan masih tampak ragu. Ia mengusap tangannya yang terkena debu di meja tua. \"Tempat ini kotor sekali. Apa benar kita bisa menjadikannya sekretariat?\"\n\nAku tersenyum. Bagiku, yang terpenting bukanlah seberapa bagus kondisi tempat ini, tetapi apakah tempat ini bisa menampung ide-ide kami. Selama ada ruang untuk berdiskusi dan bertukar pikiran, tempat ini sudah lebih dari cukup.\n\n\"Yang penting kita punya tempat,\" kataku akhirnya. \"Sisanya bisa kita perbaiki bersama.\"",
+    "dari_nomor": 1,
+    "sampai_nomor": 5,
+    "soal": [
+      {
+        "nomor": 1,
+        "soal": "Gambaran karakter tokoh aku yang sesuai dengan isi bacaan adalah ...",
+        "pilihan": {
+          "A": "mudah membaca keadaan lingkungan dan sifat orang di sekitarnya",
+          "B": "peduli dan memahami karakter teman secara detail",
+          "C": "berkarisma dalam memimpin",
+          "D": "menjadi penengah konflik",
+          "E": "menyukai hal rapi"
+        },
+        "jawaban": "B",
+        "penjelasan": "Tokoh aku memahami sifat teman-temannya melalui pengamatan.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 2,
+        "soal": "Makna ungkapan 'bercita-cita merekam dunia' adalah...",
+        "pilihan": {
+          "A": "mengamati diam-diam",
+          "B": "menghabiskan film",
+          "C": "membayangkan dunia",
+          "D": "mencatat peristiwa",
+          "E": "memotret detail secara rinci"
+        },
+        "jawaban": "E",
+        "penjelasan": "Makna ungkapan adalah menangkap detail dunia secara visual.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 3,
+        "soal": "Respons tokoh aku terhadap rumah adalah...",
+        "pilihan": {
+          "A": "menolak",
+          "B": "mengkritik",
+          "C": "menilai lokasi",
+          "D": "fokus pada fungsi",
+          "E": "mengeluh"
+        },
+        "jawaban": "D",
+        "penjelasan": "Tokoh aku lebih mementingkan fungsi rumah.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 4,
+        "soal": "Karakter tokoh terlihat dari...",
+        "pilihan": {
+          "A": "keputusan cepat",
+          "B": "sikap acuh",
+          "C": "kepemimpinan",
+          "D": "cara menghadapi perbedaan",
+          "E": "ketegasan"
+        },
+        "jawaban": "D",
+        "penjelasan": "Interaksi menunjukkan karakter tokoh.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 5,
+        "soal": "Pemikiran Kinan adalah...",
+        "pilihan": {
+          "A": "tidak suka kondisi rumah",
+          "B": "tidak percaya",
+          "C": "ragu",
+          "D": "meragukan desain",
+          "E": "menyalahkan"
+        },
+        "jawaban": "A",
+        "penjelasan": "Kinan fokus pada kondisi rumah yang kotor.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "literasi": "Fenomena penggunaan media sosial di kalangan remaja semakin meningkat. Hal ini memberikan dampak positif seperti kemudahan memperoleh informasi dan memperluas jaringan pertemanan. Namun, di sisi lain juga menimbulkan dampak negatif seperti penyebaran informasi palsu dan kecanduan penggunaan.\n\nRemaja perlu memiliki kemampuan literasi digital agar dapat memilah informasi yang benar dan menghindari dampak negatif tersebut.",
+    "dari_nomor": 6,
+    "sampai_nomor": 10,
+    "soal": [
+      {
+        "nomor": 6,
+        "soal": "Topik utama teks adalah...",
+        "pilihan": {
+          "A": "remaja",
+          "B": "media sosial",
+          "C": "dampak media sosial",
+          "D": "informasi",
+          "E": "teknologi"
+        },
+        "jawaban": "C",
+        "penjelasan": "Teks membahas dampak positif dan negatif.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 7,
+        "soal": "Dampak positif adalah...",
+        "pilihan": {
+          "A": "kecanduan",
+          "B": "mudah akses info",
+          "C": "hoaks",
+          "D": "malas",
+          "E": "ketergantungan"
+        },
+        "jawaban": "B",
+        "penjelasan": "Disebutkan langsung dalam teks.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 8,
+        "soal": "Dampak negatif adalah...",
+        "pilihan": {
+          "A": "akses luas",
+          "B": "info cepat",
+          "C": "informasi palsu",
+          "D": "komunikasi mudah",
+          "E": "relasi luas"
+        },
+        "jawaban": "C",
+        "penjelasan": "Disebutkan dalam teks.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 9,
+        "soal": "Kesimpulan teks adalah...",
+        "pilihan": {
+          "A": "buruk",
+          "B": "baik",
+          "C": "dua sisi",
+          "D": "tidak penting",
+          "E": "harus dihindari"
+        },
+        "jawaban": "C",
+        "penjelasan": "Ada dampak positif dan negatif.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 10,
+        "soal": "Sikap tepat adalah...",
+        "pilihan": {
+          "A": "menghindari",
+          "B": "bijak",
+          "C": "hapus akun",
+          "D": "tidak peduli",
+          "E": "menyebar"
+        },
+        "jawaban": "B",
+        "penjelasan": "Gunakan secara bijak.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "literasi": "Perkembangan teknologi digital telah membawa perubahan besar dalam kehidupan manusia. Akses terhadap informasi menjadi semakin cepat dan luas. Namun, tidak semua informasi yang beredar dapat dipercaya. Banyak informasi yang tidak terverifikasi sehingga dapat menyesatkan pembacanya.\n\nDalam menghadapi kondisi tersebut, masyarakat dituntut untuk memiliki kemampuan berpikir kritis. Kemampuan ini penting agar seseorang dapat memilah informasi yang benar dan tidak mudah terpengaruh oleh berita palsu. Selain itu, literasi digital juga menjadi kunci agar masyarakat dapat menggunakan teknologi secara bijak dan bertanggung jawab.",
+    "dari_nomor": 11,
+    "sampai_nomor": 15,
+    "soal": [
+      {
+        "nomor": 11,
+        "soal": "Topik utama teks tersebut adalah...",
+        "pilihan": {
+          "A": "perkembangan teknologi",
+          "B": "akses informasi",
+          "C": "dampak teknologi digital",
+          "D": "berpikir kritis",
+          "E": "literasi digital"
+        },
+        "jawaban": "C",
+        "penjelasan": "Teks membahas dampak perkembangan teknologi digital, baik positif maupun negatif.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 12,
+        "soal": "Masalah yang dibahas dalam teks adalah...",
+        "pilihan": {
+          "A": "kurangnya teknologi",
+          "B": "banyak informasi tidak benar",
+          "C": "sulitnya akses informasi",
+          "D": "tidak ada literasi digital",
+          "E": "kurangnya pengguna internet"
+        },
+        "jawaban": "B",
+        "penjelasan": "Disebutkan bahwa banyak informasi yang tidak terverifikasi.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 13,
+        "soal": "Solusi yang ditawarkan dalam teks adalah...",
+        "pilihan": {
+          "A": "mengurangi penggunaan teknologi",
+          "B": "menutup akses informasi",
+          "C": "meningkatkan berpikir kritis",
+          "D": "menghindari media sosial",
+          "E": "menghapus berita"
+        },
+        "jawaban": "C",
+        "penjelasan": "Teks menekankan pentingnya berpikir kritis.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 14,
+        "soal": "Makna literasi digital dalam teks adalah...",
+        "pilihan": {
+          "A": "kemampuan menggunakan komputer",
+          "B": "kemampuan membaca cepat",
+          "C": "kemampuan memilah informasi dan menggunakan teknologi secara bijak",
+          "D": "kemampuan menulis digital",
+          "E": "kemampuan membuat aplikasi"
+        },
+        "jawaban": "C",
+        "penjelasan": "Literasi digital berkaitan dengan penggunaan teknologi secara bijak.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 15,
+        "soal": "Simpulan teks adalah...",
+        "pilihan": {
+          "A": "teknologi berbahaya",
+          "B": "informasi tidak penting",
+          "C": "teknologi harus dihindari",
+          "D": "berpikir kritis dan literasi digital sangat penting",
+          "E": "internet harus dibatasi"
+        },
+        "jawaban": "D",
+        "penjelasan": "Kesimpulan menekankan pentingnya berpikir kritis dan literasi digital.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "literasi": "Membaca merupakan salah satu kegiatan yang sangat penting dalam meningkatkan pengetahuan dan wawasan seseorang. Dengan membaca, seseorang dapat memperoleh berbagai informasi yang berguna dalam kehidupan sehari-hari.\n\nNamun, minat baca masyarakat Indonesia masih tergolong rendah. Hal ini disebabkan oleh berbagai faktor, seperti kurangnya akses terhadap bahan bacaan, rendahnya kesadaran akan pentingnya membaca, serta pengaruh perkembangan teknologi yang membuat masyarakat lebih tertarik pada hiburan digital.\n\nOleh karena itu, diperlukan upaya untuk meningkatkan minat baca, seperti menyediakan fasilitas perpustakaan yang memadai, mengadakan program literasi, dan membiasakan membaca sejak dini.",
+    "dari_nomor": 16,
+    "sampai_nomor": 20,
+    "soal": [
+      {
+        "nomor": 16,
+        "soal": "Ide pokok paragraf pertama adalah...",
+        "pilihan": {
+          "A": "membaca tidak penting",
+          "B": "membaca meningkatkan pengetahuan",
+          "C": "membaca sulit",
+          "D": "membaca membosankan",
+          "E": "membaca hanya untuk hiburan"
+        },
+        "jawaban": "B",
+        "penjelasan": "Paragraf pertama menekankan manfaat membaca.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 17,
+        "soal": "Penyebab rendahnya minat baca adalah...",
+        "pilihan": {
+          "A": "banyak buku",
+          "B": "akses mudah",
+          "C": "kurangnya akses dan pengaruh teknologi",
+          "D": "banyak perpustakaan",
+          "E": "tingginya kesadaran"
+        },
+        "jawaban": "C",
+        "penjelasan": "Disebutkan dalam teks.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 18,
+        "soal": "Salah satu solusi adalah...",
+        "pilihan": {
+          "A": "mengurangi buku",
+          "B": "menutup perpustakaan",
+          "C": "meningkatkan fasilitas literasi",
+          "D": "melarang membaca",
+          "E": "mengurangi teknologi"
+        },
+        "jawaban": "C",
+        "penjelasan": "Solusi disebutkan di paragraf terakhir.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 19,
+        "soal": "Tujuan teks adalah...",
+        "pilihan": {
+          "A": "menghibur",
+          "B": "memberi informasi",
+          "C": "mengkritik",
+          "D": "menceritakan",
+          "E": "mengajak"
+        },
+        "jawaban": "E",
+        "penjelasan": "Teks mengajak meningkatkan minat baca.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 20,
+        "soal": "Kesimpulan teks adalah...",
+        "pilihan": {
+          "A": "membaca tidak penting",
+          "B": "minat baca tinggi",
+          "C": "minat baca rendah dan perlu ditingkatkan",
+          "D": "membaca sulit",
+          "E": "tidak perlu membaca"
+        },
+        "jawaban": "C",
+        "penjelasan": "Kesimpulan merangkum isi teks.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "literasi": "Perubahan iklim merupakan salah satu isu global yang semakin mengkhawatirkan. Peningkatan suhu bumi menyebabkan berbagai dampak negatif, seperti mencairnya es di kutub, naiknya permukaan air laut, dan perubahan pola cuaca yang ekstrem.\n\nAktivitas manusia, seperti penggunaan bahan bakar fosil dan deforestasi, menjadi penyebab utama perubahan iklim. Oleh karena itu, diperlukan upaya bersama untuk mengurangi dampak tersebut, seperti menggunakan energi terbarukan, mengurangi emisi karbon, dan menjaga kelestarian hutan.\n\nKesadaran masyarakat sangat penting dalam menghadapi perubahan iklim. Dengan perilaku yang ramah lingkungan, diharapkan dampak negatif dapat diminimalkan.",
+    "dari_nomor": 21,
+    "sampai_nomor": 25,
+    "soal": [
+      {
+        "nomor": 21,
+        "soal": "Topik utama teks adalah...",
+        "pilihan": {
+          "A": "lingkungan",
+          "B": "perubahan iklim",
+          "C": "pemanasan global",
+          "D": "energi",
+          "E": "cuaca"
+        },
+        "jawaban": "B",
+        "penjelasan": "Teks membahas perubahan iklim secara keseluruhan.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 22,
+        "soal": "Salah satu dampak perubahan iklim adalah...",
+        "pilihan": {
+          "A": "penurunan suhu",
+          "B": "es membeku",
+          "C": "mencairnya es di kutub",
+          "D": "cuaca stabil",
+          "E": "air laut turun"
+        },
+        "jawaban": "C",
+        "penjelasan": "Disebutkan langsung dalam teks.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 23,
+        "soal": "Penyebab utama perubahan iklim adalah...",
+        "pilihan": {
+          "A": "alam",
+          "B": "cuaca",
+          "C": "aktivitas manusia",
+          "D": "laut",
+          "E": "matahari"
+        },
+        "jawaban": "C",
+        "penjelasan": "Disebutkan dalam teks.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 24,
+        "soal": "Salah satu solusi adalah...",
+        "pilihan": {
+          "A": "meningkatkan emisi",
+          "B": "menggunakan energi terbarukan",
+          "C": "menebang hutan",
+          "D": "mengabaikan lingkungan",
+          "E": "menggunakan bahan bakar fosil"
+        },
+        "jawaban": "B",
+        "penjelasan": "Solusi disebutkan dalam teks.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      },
+      {
+        "nomor": 25,
+        "soal": "Kesimpulan teks adalah...",
+        "pilihan": {
+          "A": "perubahan iklim tidak penting",
+          "B": "perubahan iklim harus diabaikan",
+          "C": "perubahan iklim adalah masalah serius dan perlu ditangani bersama",
+          "D": "tidak ada solusi",
+          "E": "lingkungan tidak penting"
+        },
+        "jawaban": "C",
+        "penjelasan": "Kesimpulan menekankan pentingnya kesadaran dan tindakan bersama.",
+        "image": null,
+        "kategori": "Literasi Bahasa Indonesia"
+      }
+    ]
+  }
+]
